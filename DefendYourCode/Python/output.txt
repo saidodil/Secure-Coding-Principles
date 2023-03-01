@@ -1,0 +1,9 @@
+First name: Abdulrehim
+Last name: Shuba
+First integer: 4
+Second integer: 4
+Sum: 8
+Product: 16
+Input file: input.txt
+Input file contents:
+eee76b211238e384a4d4b34c2c8f8be7cbacd938b3944760ee281aac88512b75

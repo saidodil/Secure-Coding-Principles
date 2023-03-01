@@ -1,0 +1,9 @@
+First name: Dilnoza
+Last name: Saidvoa
+First integer: 12
+Second integer: -1
+Sum: 11
+Product: -12
+Input file: input.txt
+Input file contents:
+d5433b999a667c13bf91dc208c94797d3a055a935586ae4ee986ae6a7c8abf20
